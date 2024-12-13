@@ -2,6 +2,8 @@
 
 **Steam Screenshot Downloader** 是一个用于批量下载 Steam 截图的工具。输入 Steam 用户名和保存路径，程序会自动爬取指定用户的公开截图并下载到本地。
 
+![](preview.gif)
+
 ## 功能特点
 
 - 自动爬取 Steam 用户公开截图。
